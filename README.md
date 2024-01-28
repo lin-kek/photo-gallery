@@ -2,7 +2,7 @@
 
 This is a responsive photo gallery project built using React, with animation effects for the opening and closing of the picture modal using Framer Motion.
 
-[Live Demo](photo-gallery-taupe-eight.vercel.app/)
+[Live Demo](http://photo-gallery-taupe-eight.vercel.app/)
 
 ## Features
 
